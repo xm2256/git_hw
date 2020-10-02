@@ -1,4 +1,8 @@
 Hi! This is file b
 
+<<<<<<< HEAD
 Switched back to the master branch.
 
+=======
+Changes are made in this branch.
+>>>>>>> feature1
